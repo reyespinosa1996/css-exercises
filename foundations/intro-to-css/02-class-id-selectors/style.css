@@ -1,0 +1,16 @@
+.odd_numbers {
+    background-color: hsl(350, 100%, 88%);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#second {
+    color: hsl(234, 87%, 33%);
+    font-size: 36px;
+}
+.third {
+    font-size: 24px;
+}
+#fourth {
+    background-color: rgb(138, 223, 138);
+    font-size: 24px;
+    font-weight: bold;
+}
